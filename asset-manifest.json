@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BILLAWARCOMMUNITY/static/css/main.f855e6bc.css",
+    "main.js": "/BILLAWARCOMMUNITY/static/js/main.fab9ddb6.js",
+    "static/js/453.ed3810f9.chunk.js": "/BILLAWARCOMMUNITY/static/js/453.ed3810f9.chunk.js",
+    "service-worker.js": "/BILLAWARCOMMUNITY/service-worker.js",
+    "static/media/logo.svg": "/BILLAWARCOMMUNITY/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/BILLAWARCOMMUNITY/index.html",
+    "main.f855e6bc.css.map": "/BILLAWARCOMMUNITY/static/css/main.f855e6bc.css.map",
+    "main.fab9ddb6.js.map": "/BILLAWARCOMMUNITY/static/js/main.fab9ddb6.js.map",
+    "453.ed3810f9.chunk.js.map": "/BILLAWARCOMMUNITY/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fab9ddb6.js"
+  ]
+}
