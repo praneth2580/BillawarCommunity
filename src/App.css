@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.login-bg {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1rem;
+  background-image: url('./assets/login-desktop.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  height: 100vh;
+}
+
+.login-container {
+  padding: 2rem 1rem;
+  background-color: white;
+  border-radius: 1rem;
+  border: solid 1px whitesmoke;
+  width: 22rem;
+}
+
+.login-container h2 {
+  font-weight: 900;
+  margin-bottom: 1rem;
+}

@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.org-name-container {
+  position: absolute;
+  padding: .3rem 0;
+  bottom: 1.1rem;
+}
+
+.org-name-container p {
+  margin: 0;
+  font-size: .8rem;
+}
