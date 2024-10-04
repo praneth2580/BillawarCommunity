@@ -2,11 +2,15 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Login from './Components/Login';
+import TopNav from './Components/TopNav';
+import Dashboard from './Components/Dashboard';
 
 function App() {
   return (
     <div className="App">
-      <Login/>
+      <TopNav/>
+      <Dashboard/>
+      {/* <Login/> */}
       {/* <div className='org-name-container'>
         <p>GHATKOPAR BILLAWAR ASSOCIATION, ASALPHA</p>
       </div> */}
